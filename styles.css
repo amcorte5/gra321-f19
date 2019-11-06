@@ -1,0 +1,32 @@
+/* Starter Project Style */
+
+*, *:before, *:after {
+    box-sizing:border-box
+}
+
+body {background-color: antiquewhite;
+    font-family: brandon-grotesque, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: .5px;
+    line-height: 1.5;
+    padding: 10%;
+}
+
+h1 {font-weight: 100;
+    margin-bottom: (0,0,0,0);
+    color: antiquewhite;
+    text-align: center;
+    background-color: saddlebrown;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+}
+
+h2 {padding-top: 10px;
+    padding-bottom: 0px;
+    color: saddlebrown;}
+
+p1 {font-weight:500;}
